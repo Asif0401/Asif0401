@@ -49,6 +49,6 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 
 ----
-Credit: [Jas-Script](https://github.com/Jas-Script)
+Credit: [Jas-Script](https://github.com/asif0401)
 
 Last Edited on: 04/01/2021
