@@ -1,4 +1,32 @@
-<h3 title="hehehe"> Hey 👋, I'm Asif Khan!</h3>
+# Hi👋, I'm Asif Khan!
+
+## **Looking for an Frontend Intern / full time position!**
+
+👨‍💻&nbsp; Computer Science Undergrad from Lovely Professional University, Punjab.
+
+📹&nbsp; Coding content creator [YouTube](https://www.youtube.com/channel/UCYBwball06AdVuaHeH7adVw?view_as=subscriber)
+
+🐦&nbsp; Tweeting about my coding journey [@coding_david](https://twitter.com/coding_david)
+
+## Technologies: 
+
+🔹&nbsp;  **Front End Skills:** HTML5, CSS3, and JavaScript.
+
+🔸&nbsp;  **Front End Framework/Libraries:**  ReactJS.
+
+🔹&nbsp;  **Back End Skills:** Node.js.
+
+🔸&nbsp;  **Back End Framework:** Express.
+
+🔹&nbsp;  **Database:** MySQL
+
+
+📘&nbsp; [Portfolio](https://asif-khan-portfolio.netlify.app/)
+
+📫&nbsp; How to contact me:
+
+- asifkhan040102@gmail.com
+
 
 <a href="https://www.linkedin.com/in/pathan-asif-khan-/">
   <img align="left" alt="Asif's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -17,18 +45,9 @@
 <br />
 <br />
 
-A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
  
-
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**About Me!**
-
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at Lovely Professional University, Punjab
-- 🌱 I’m currently exploring Javascript with a big interest in JS frameworks and Data Structures and Algorithms. 
-- 🤔 My interest lies in Frontend web development.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [asifkhan040102@gmail.com](mailto:asifkhan040102@gmail.com).
 
 
 
