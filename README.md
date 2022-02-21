@@ -68,6 +68,6 @@
 
 
 ----
-Credit: [Jas-Script](https://github.com/asif0401)
+Credit: [Asif Khan](https://github.com/asif0401)
 
 Last Edited on: 04/01/2021
