@@ -2,11 +2,11 @@
 
 ## **Looking for an Frontend Intern / full time position!**
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 👨‍💻&nbsp; Computer Science Undergrad from Lovely Professional University, Punjab.
 
-📹&nbsp; Coding content creator [YouTube](https://www.youtube.com/channel/UCYBwball06AdVuaHeH7adVw?view_as=subscriber)
 
-🐦&nbsp; Tweeting about my coding journey [@coding_david](https://twitter.com/coding_david)
 
 ## Technologies: 
 
@@ -46,7 +46,7 @@
 <br />
 
  
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  
 
 
 
